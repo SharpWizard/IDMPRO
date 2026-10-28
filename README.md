@@ -12,6 +12,24 @@ Made for users in **Bangladesh 🇧🇩, India 🇮🇳, Pakistan 🇵🇰** and
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/1-home-dark.png" alt="MovieBox home: featured titles, quick shortcuts and rows" width="900"><br>
+  <sub><b>MovieBox Home</b> — featured titles, one-click shortcuts (Web Series, Dual Audio, Netflix, Bangla…) and “Watch now”</sub>
+</p>
+
+<table>
+  <tr>
+    <td width="50%"><img src="screenshots/2-browse.png" alt="Browse movies and series"><br><sub><b>Browse</b> — posters with quality, language and 4K badges; filters by type, language, quality and year</sub></td>
+    <td width="50%"><img src="screenshots/3-title-page.png" alt="Title page with play, My List, Follow and Phone"><br><sub><b>Title page</b> — details, ▶ Play in the built-in player, My List, Follow new episodes, Watch on phone</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="screenshots/4-downloads.png" alt="Download list with details"><br><sub><b>Downloads</b> — fast multi-connection downloads that resume after power cuts, with a clean info card</sub></td>
+    <td width="50%"><img src="screenshots/5-settings-moviebox.png" alt="MovieBox settings in dark mode"><br><sub><b>Settings · Dark mode</b> — preferred quality (480p for low data), audio language (Hindi / Bangla / English…), subtitles</sub></td>
+  </tr>
+</table>
+
 ## Why IDMPRO?
 
 Internet in much of South Asia is fast one minute and gone the next — mobile data, shared Wi-Fi, load-shedding, night packages. IDMPRO is built for exactly that:
